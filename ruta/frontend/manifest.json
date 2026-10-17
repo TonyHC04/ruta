@@ -1,0 +1,10 @@
+{
+  "name": "Ruta Manifiesto",
+  "short_name": "Ruta",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8e44ad",
+  "lang": "es-MX"
+}

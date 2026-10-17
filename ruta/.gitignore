@@ -1,0 +1,22 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Variables secretas
+.env
+
+# Bases de datos locales
+*.db
+*.sqlite3
+instance/
+
+# Sistema / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

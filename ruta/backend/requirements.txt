@@ -1,0 +1,6 @@
+Flask>=3.0
+Flask-SQLAlchemy>=3.1
+Flask-Migrate>=4.0
+python-dotenv>=1.0
+tzdata            # zonas horarias en Windows (zoneinfo)
+PyMySQL>=1.1      # solo si usas MySQL
